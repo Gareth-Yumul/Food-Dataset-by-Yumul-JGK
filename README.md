@@ -27,7 +27,7 @@ To what extent can nutrient-based rule systems identify ultra-processed foods (N
 Open the notebook in Google Colab, run Cell 1 and upload the CSV, then run the cells in order. Results in the paper come from the full file.
 
 ## Data and licence
-Data from Open Food Facts, released under the Open Database Licence (ODbL); attribution: Open Food Facts contributors. https://www.kaggle.com/datasets/kanchana1990/global-food-nutrition-database10k-products
+Data from Open Food Facts, released under the Open Database Licence (ODbL); attribution: Open Food Facts contributors. https://www.kaggle.com/datasets/kanchana1990/global-food-nutrition-database10k-products and https://opendatacommons.org/licenses/dbcl/1-0/
 
 ## AI assistance
 Code was written with assistance from Claude (Anthropic) and reviewed by the author; this is noted in code comments.
